@@ -1,0 +1,10 @@
+-hero
+	darling 
+-heroine
+	sweety
+-supporting
+	mama
+	amma
+	bijju
+	avvi
+	kvarma
